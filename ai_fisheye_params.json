@@ -1,0 +1,153 @@
+{
+    "camera_height_m": 4.0,
+    "ai_detected_pitch_deg": -22.22,
+    "ai_detected_roll_deg": 0.67,
+    "ai_detected_horizontal_fov_deg": 58.05,
+    "ai_detected_vertical_fov_deg": 34.67,
+    "measured_segments": [
+        {
+            "pair_index": 1,
+            "p1_pixel": [
+                411,
+                1308
+            ],
+            "p2_pixel": [
+                1174,
+                1259
+            ],
+            "distance_meters": 2.251
+        },
+        {
+            "pair_index": 2,
+            "p1_pixel": [
+                1174,
+                1259
+            ],
+            "p2_pixel": [
+                741,
+                1135
+            ],
+            "distance_meters": 1.587
+        },
+        {
+            "pair_index": 3,
+            "p1_pixel": [
+                741,
+                1135
+            ],
+            "p2_pixel": [
+                855,
+                809
+            ],
+            "distance_meters": 2.563
+        },
+        {
+            "pair_index": 4,
+            "p1_pixel": [
+                855,
+                809
+            ],
+            "p2_pixel": [
+                494,
+                759
+            ],
+            "distance_meters": 1.874
+        },
+        {
+            "pair_index": 5,
+            "p1_pixel": [
+                494,
+                759
+            ],
+            "p2_pixel": [
+                333,
+                579
+            ],
+            "distance_meters": 3.235
+        },
+        {
+            "pair_index": 6,
+            "p1_pixel": [
+                333,
+                579
+            ],
+            "p2_pixel": [
+                756,
+                490
+            ],
+            "distance_meters": 2.689
+        },
+        {
+            "pair_index": 7,
+            "p1_pixel": [
+                756,
+                490
+            ],
+            "p2_pixel": [
+                1338,
+                547
+            ],
+            "distance_meters": 3.828
+        },
+        {
+            "pair_index": 8,
+            "p1_pixel": [
+                1338,
+                547
+            ],
+            "p2_pixel": [
+                1703,
+                455
+            ],
+            "distance_meters": 3.038
+        },
+        {
+            "pair_index": 9,
+            "p1_pixel": [
+                1703,
+                455
+            ],
+            "p2_pixel": [
+                2005,
+                471
+            ],
+            "distance_meters": 1.935
+        },
+        {
+            "pair_index": 10,
+            "p1_pixel": [
+                2005,
+                471
+            ],
+            "p2_pixel": [
+                1821,
+                678
+            ],
+            "distance_meters": 4.128
+        },
+        {
+            "pair_index": 11,
+            "p1_pixel": [
+                1821,
+                678
+            ],
+            "p2_pixel": [
+                2213,
+                1364
+            ],
+            "distance_meters": 5.294
+        },
+        {
+            "pair_index": 12,
+            "p1_pixel": [
+                2213,
+                1364
+            ],
+            "p2_pixel": [
+                413,
+                1312
+            ],
+            "distance_meters": 5.148
+        }
+    ]
+}
