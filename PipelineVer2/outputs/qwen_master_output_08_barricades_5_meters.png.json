@@ -1,0 +1,43 @@
+{
+    "required_ppe": [
+        "hard hat",
+        "safety boots",
+        "high-visibility vest",
+        "gloves"
+    ],
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 80,
+            "large_bounding_box": [
+                55,
+                180,
+                540,
+                830
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "silver metal extrusion frame",
+                        "aluminum gantry structure",
+                        "vertical metal posts on left and right",
+                        "horizontal top beam",
+                        "metal frame base feet",
+                        "open-fronted metal frame"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare concrete ground",
+                        "empty smooth gray floor surface",
+                        "unmarked concrete slab inside frame"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

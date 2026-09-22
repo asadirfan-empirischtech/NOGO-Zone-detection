@@ -1,0 +1,39 @@
+{
+    "zones": [
+        {
+            "zone_id": "hazard_zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                120,
+                80,
+                880,
+                920
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "orange traffic cones with black square bases",
+                        "orange chain linking the cones together",
+                        "rectangular perimeter of safety cones",
+                        "cones arranged in a closed loop",
+                        "orange chain barrier between cones",
+                        "row of orange cones forming a border"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare light gray ground",
+                        "empty floor surface inside the cones",
+                        "smooth concrete floor",
+                        "unoccupied floor tiles",
+                        "open ground area"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

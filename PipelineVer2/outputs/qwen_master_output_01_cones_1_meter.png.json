@@ -1,0 +1,38 @@
+{
+    "zones": [
+        {
+            "zone_id": "hazard_zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                250,
+                190,
+                770,
+                815
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "orange traffic cone with black base",
+                        "row of orange cones on left side",
+                        "row of orange cones on right side",
+                        "orange barrier tape forming rectangle",
+                        "orange horizontal tape strips top and bottom",
+                        "orange vertical tape strips on sides"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare grey concrete ground",
+                        "smooth concrete slab surface",
+                        "empty concrete floor tiles",
+                        "plain concrete pavement inside zone"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

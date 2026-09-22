@@ -1,0 +1,31 @@
+{
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 92,
+            "large_bounding_box": [
+                438,
+                615,
+                532,
+                802
+            ],
+            "sam3_objects": {
+                "boundary": [
+                    "orange rectangular hazard tape",
+                    "red corner marker posts",
+                    "bright orange boundary lines",
+                    "red cone-like corner caps",
+                    "closed orange perimeter frame"
+                ],
+                "floor": [
+                    "flat empty concrete floor",
+                    "bare gray ground surface",
+                    "empty polished concrete tiles",
+                    "smooth bare floor inside frame",
+                    "unoccupied concrete ground"
+                ]
+            },
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "required_ppe": [
+        "high-visibility vest",
+        "safety boots",
+        "hard hat",
+        "gloves"
+    ],
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                80,
+                50,
+                870,
+                950
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "metal crowd control barricade",
+                        "silver metal fence panels",
+                        "interlocking barrier rails",
+                        "steel barricade frame",
+                        "connected metal guardrail sections"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare concrete ground",
+                        "smooth grey floor surface",
+                        "empty paved area",
+                        "unmarked concrete slab"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

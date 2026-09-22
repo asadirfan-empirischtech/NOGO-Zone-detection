@@ -1,0 +1,31 @@
+{
+    "zones": [
+        {
+            "zone_id": "hazard_zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                110,
+                20,
+                985,
+                985
+            ],
+            "sam3_objects": {
+                "boundary": [
+                    "red retractable belt stanchion posts",
+                    "metal posts with circular chrome bases",
+                    "red barrier belt forming a rectangle",
+                    "queue barrier poles around the perimeter",
+                    "red strap connecting the stanchions"
+                ],
+                "floor": [
+                    "flat empty grey concrete floor",
+                    "bare smooth industrial floor surface",
+                    "empty polished floor tiles inside the barrier",
+                    "unoccupied flat ground within the red belt",
+                    "clean bare floor area enclosed by posts"
+                ]
+            },
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

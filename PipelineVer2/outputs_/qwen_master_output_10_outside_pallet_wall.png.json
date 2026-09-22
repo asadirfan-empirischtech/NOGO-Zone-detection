@@ -1,0 +1,36 @@
+{
+    "zones": [
+        {
+            "zone_id": "pallet_enclosure_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                185,
+                110,
+                835,
+                890
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "upright wooden pallets forming a square fence",
+                        "stacked wooden pallet barrier walls",
+                        "vertical pallet slats enclosing the area",
+                        "wooden pallet enclosure perimeter",
+                        "pallet hurdle standing on edge"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare polished concrete ground",
+                        "empty smooth gray floor surface",
+                        "unoccupied concrete floor inside enclosure"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

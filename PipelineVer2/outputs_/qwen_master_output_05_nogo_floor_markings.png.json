@@ -1,0 +1,39 @@
+{
+    "zones": [
+        {
+            "zone_id": "1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                340,
+                240,
+                980,
+                960
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "yellow painted diagonal stripes",
+                        "yellow painted border lines",
+                        "flat yellow floor marking",
+                        "painted hazard boundary outline",
+                        "yellow striped floor pattern",
+                        "painted yellow rectangular frame"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty gray floor",
+                        "bare gray concrete floor",
+                        "empty smooth floor surface",
+                        "gray painted floor inside zone",
+                        "flat gray ground",
+                        "empty gray floor tiles"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": true
+        }
+    ]
+}

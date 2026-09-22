@@ -1,0 +1,32 @@
+{
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                55,
+                15,
+                915,
+                950
+            ],
+            "sam3_objects": {
+                "boundary": [
+                    "red and white striped barricade panel",
+                    "physical barrier board with diagonal stripes",
+                    "black plastic base foot of barricade",
+                    "row of connected striped fence panels",
+                    "upright hazard barrier wall",
+                    "striped enclosure panel standing on floor"
+                ],
+                "floor": [
+                    "flat empty concrete floor",
+                    "bare light gray concrete ground",
+                    "smooth empty floor surface inside enclosure",
+                    "unmarked flat concrete slab",
+                    "open bare ground within barricades"
+                ]
+            },
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

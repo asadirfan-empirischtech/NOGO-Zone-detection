@@ -1,0 +1,36 @@
+{
+    "zones": [
+        {
+            "zone_id": "hazard_zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                200,
+                130,
+                880,
+                830
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "yellow hazard tape",
+                        "metal corner posts",
+                        "black circular base stands",
+                        "rectangular yellow barrier tape",
+                        "stretched yellow warning tape"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare light gray floor surface",
+                        "empty polished concrete ground",
+                        "smooth factory floor tiles"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

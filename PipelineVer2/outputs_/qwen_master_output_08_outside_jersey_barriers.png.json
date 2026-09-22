@@ -1,0 +1,37 @@
+{
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                110,
+                70,
+                840,
+                950
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "orange and white striped barricade",
+                        "plastic safety barrier",
+                        "rectangular enclosure fence",
+                        "striped construction hurdle",
+                        "interlocking safety barrier"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "bare industrial ground",
+                        "smooth grey concrete surface",
+                        "empty floor inside barricade",
+                        "unmarked concrete slab"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": false
+        }
+    ]
+}

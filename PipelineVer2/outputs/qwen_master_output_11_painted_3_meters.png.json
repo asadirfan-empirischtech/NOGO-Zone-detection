@@ -1,0 +1,39 @@
+{
+    "required_ppe": [
+        "safety boots",
+        "high-visibility vest"
+    ],
+    "zones": [
+        {
+            "zone_id": "zone_1",
+            "visibility_rating": 95,
+            "large_bounding_box": [
+                340,
+                0,
+                650,
+                210
+            ],
+            "sam3_objects": [
+                {
+                    "object_type": "boundary",
+                    "phrases": [
+                        "yellow painted line",
+                        "flat yellow border",
+                        "painted rectangular outline",
+                        "yellow floor marking"
+                    ]
+                },
+                {
+                    "object_type": "floor",
+                    "phrases": [
+                        "flat empty concrete floor",
+                        "yellow painted floor section",
+                        "white floor area",
+                        "bare concrete surface"
+                    ]
+                }
+            ],
+            "is_flat_painted_boundary": true
+        }
+    ]
+}
